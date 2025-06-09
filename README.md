@@ -23,8 +23,8 @@ Check out my apps on my **[Google Play Portfolio](https://play.google.com/store/
 ---
 
 ## 🌟 Featured Projects
-- **[KCET Notes and Question Papers](https://github.com/AppInnoVenture/kcetnotes)**: An educational app for KCET exam prep with **5,000+ downloads** (or 10,000+ if you ask my loyal users 😉). Features include localization, dark/light mode, and a custom PDF viewer with auto-scroll. [Try it on Google Play](https://play.google.com/store/apps/details?id=com.kea.pyp&utm_source=shareApp)!
-- **[PUC Notes and Textbooks](https://github.com/AppInnoVenture/pucapp)**: A comprehensive app for 37 subjects, serving **5,000+ users**. Includes a Room database, foreground service for PDF downloads, and a unique split-screen layout. [Check it out on Google Play](https://play.google.com/store/apps/details?id=com.kea.pyp&utm_source=shareApp)!
+- **[KCET Notes and Question Papers](https://github.com/AppInnoVenture/kcetapp)**: An educational app for KCET exam prep with **10,000+ downloads** (though Google Play displays 5,000+ downloads—guess they’re a bit slow to update 😉). Features include localization, dark/light mode, and a custom PDF viewer with auto-scroll. [Try it on Google Play](https://play.google.com/store/apps/details?id=com.kea.pyp&utm_source=shareApp)!
+- **[PUC Notes and Textbooks](https://github.com/AppInnoVenture/pucapp)**: A comprehensive app for 37 subjects, serving **5,000+ users**. Includes a Room database, foreground service for PDF downloads, and a unique split-screen layout. [Check it out on Google Play](https://play.google.com/store/apps/details?id=com.puc.pyp&utm_source=shareApp)!
 
 ---
 
