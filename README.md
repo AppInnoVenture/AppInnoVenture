@@ -6,7 +6,7 @@ I'm a passionate **Android App Developer** and B.Tech student specializing in **
 
 ## 🚀 What I Do
 - Develop **Android apps** with a focus on education, accessibility, and performance.
-- Leverage **Kotlin**, **Jetpack (ViewPager2, Navigation, ViewModel, LiveData, Room)**, **Coroutines**, and **Material Design** to build robust, scalable apps.
+- Leverage **Kotlin**, **Jetpack (ViewPager2, Navigation, ViewModel, LiveData, Room, Compose, WorkManager)**, **Coroutines**, and **Material Design** to build robust, scalable apps.
 - Integrate innovative features like **runtime language switching**, **custom PDF viewers**, and **split-screen layouts** to enhance user experience.
 - Manage projects end-to-end, from design to publishing on **Google Play**.
 
@@ -38,4 +38,3 @@ I’m always excited to collaborate or discuss Android development. Let’s buil
 
 ---
 
-⭐️ **Fun Fact**: My apps are built with coffee and a sprinkle of late-night coding sessions. If you’re an employer, I’d love to demo my apps’ unique features in an interview!
